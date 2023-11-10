@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Weekend!\n");
+    printf("Hello, NEW FILE MESSAGE !\n");
     return 0;
 }
